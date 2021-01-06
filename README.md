@@ -15,16 +15,16 @@ Machine learning models were used to identify which Airbnb listings were to have
 ![Q3](Visualizations/Question3.png)
 ![Q4](Visualizations/Question4.png)
 
-## Key Findings:
+## Key Findings
 - Highest impact was whether the client reached out to the host or not.
-  - If there is ambiguity in the listing that require the client to contact the host. 
+  - There should not be any ambiguity in the listing that require the client to contact the host. 
 - Price had the second highest impact. 
-- The features of the property did not have a profound impact.
+- Host response rate generally had the greatest impact.
+  - it is essential that the host responds immediately to their potential clients!
 - It was important that the listing had a review in 2020.
-- Host response rate generally had the greatest impact - it is essential that the host responds immediately to their potential clients!
+- The features of the property did not have a profound impact.
 
 
-## Questions for Future Study:
-- How to target the global market (i.e. genre choice, production language, casting, etc.).
-- After enough data has been recorded, investigate how COVID-19 affected the movie industry.
-- Look at which movie genres have historically been the most popular and their rate of success.
+## Future Works
+- Implement NLP/Naive Bayes to analyze listing information (i.e., description, title, amenities)
+- Classify booked listings to gain insight on which listings tend to do well.
