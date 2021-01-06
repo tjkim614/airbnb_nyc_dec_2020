@@ -4,11 +4,11 @@ Machine learning models were used to identify which Airbnb listings were to have
 ## Data
 - This analysis uses Airbnb listings data in New York City on December 10th, 2020.
 - Data was provided by Airbnb: http://insideairbnb.com/ 
-![image1](Visualizations/Features.png)
+![Features](Visualizations/Features.png)
 
 ## Insights
-![image2](Visualizations/KNN.png)
-![image3](Visualizations/RandomForests.png)
+![KNN](Visualizations/KNN.png)
+![RandomForests](Visualizations/RandomForests.png)
 
 ## Key Findings
 - Highest impact was whether the client reached out to the host or not.
