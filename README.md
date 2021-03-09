@@ -1,3 +1,4 @@
+# Airbnb Booking Listings Analysis (NYC, Dec. 2020)
 ## Purpose
 Machine learning models were used to identify which Airbnb listings were to have no bookings for the next 90 days.
 
